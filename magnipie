@@ -8,7 +8,7 @@ on:
         required: true
         default: "magnipie"
       agent_description:
-        description: "magnipie Description"
+        description: "magnipie"
         required: true
         default: "magnipie AI Agent"
 
